@@ -1,1 +1,2 @@
-aws s3 sync . s3://gmrehghg
+cd devops
+aws s3 sync . s3://xdcsfvgc
