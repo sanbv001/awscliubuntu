@@ -1,1 +1,1 @@
-aws s3 mb s3://gmre
+aws s3 mb s3://gmrehghg
