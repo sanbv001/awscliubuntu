@@ -1,1 +1,1 @@
-aws ec2 run-instances --image-id ami-0a313d6098716f372 --count 1 --instance-type t2.micro --key-name Bit --security-group-ids sg-0b908aed454a70086 --subnet-id subnet-a0b8d48e
+aws ec2 run-instances --image-id ami-0a313d6098716f372 --count 1 --instance-type t2.micro --key-name neett --security-group-ids sg-0b908aed454a70086 --subnet-id subnet-a0b8d48e
