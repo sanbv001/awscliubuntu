@@ -1,1 +1,4 @@
-aws ec2 run-instances --image-id ami-0a313d6098716f372 --count 1 --instance-type t2.micro --key-name neett --security-group-ids sg-0b908aed454a70086 --subnet-id subnet-a0b8d48e
+
+aws ec2 stop instances --instance-ids i-07c953d64c2d6d127
+
+aws ec2 terminate-instance --instance-ids i-07c953d64c2d6d127
